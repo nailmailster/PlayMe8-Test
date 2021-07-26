@@ -1,0 +1,907 @@
+{
+	"closeButton":	"close_button",
+	"arrowButton":	"arrow_teletape",
+	"items":
+	[
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251303510harrison_ford_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Phil!p",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		1,
+			"description":	"Масло",
+			"price":	46,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251299508ellen_pompeo_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эллен",
+			"playerRating":		25
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		100,
+			"description":	"Грибы",
+			"price":	24,
+			"playerImage":	"http://nrlib.ru/images/thumbnails/images/4itayte/Vick-pelevin-114x145.jpg",
+			"playerName":	"Виктор",
+			"playerRating":		9
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251229293katy_perry_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Кэти",
+			"playerRating":		72
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250531378brooke_schields_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Светлана",
+			"playerRating":		99
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		1,
+			"description":	"Масло",
+			"price":	46,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1351182363alessandra-ambrosia-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Странный",
+			"playerRating":		123
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1356553204brandy-norwood-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Брэнди",
+			"playerRating":		12
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251299915heidi_klum_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Хайди",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251298060donald_faison_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Дон",
+			"playerRating":		5
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1257196912ashley-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эшли",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250529486balthazar_getty_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Балтазар",
+			"playerRating":		12
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1311354232cee-lo-green-bio-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Грин",
+			"playerRating":		66
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1277999906hef-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Хью",
+			"playerRating":		14
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1286303557jonah-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Хилл",
+			"playerRating":		59
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251226645josh_holloway_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джош",
+			"playerRating":		1
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/2020/11/Kamala-Harris-Bio-Page.jpg?w=300&h=300&crop=1&quality=86&strip=all",
+			"playerName":	"Харрис",
+			"playerRating":		5
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1265124722carrie-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Кэрри",
+			"playerRating":		83
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1351182578angelina-jolie-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джоли",
+			"playerRating":		29
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1265124092bruce-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Брюс",
+			"playerRating":		36
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1433186147caitlyn-jenner-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Кэйтлин",
+			"playerRating":		58
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1350331396carly-rae-jepsen-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Карли",
+			"playerRating":		66
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251226768josh_jackson_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джексон",
+			"playerRating":		77
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/2020/06/Lizzo-Food-Hacks.jpg?w=300&h=300&crop=1&quality=86&strip=all",
+			"playerName":	"Лиззо",
+			"playerRating":		102
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251211551randy_jackson_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Рэнди",
+			"playerRating":		22
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1374175837victoria-justice-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джастис",
+			"playerRating":		13
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250530664blake_lewis_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Блэйк",
+			"playerRating":		94
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251226304denis_leary_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Дэн",
+			"playerRating":		85
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251219291jason_lee_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Ли",
+			"playerRating":		101
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1425323647john-legend-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джон",
+			"playerRating":		25
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251210634mario_lopez_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Лопез",
+			"playerRating":		45
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1255101975padma-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Падма",
+			"playerRating":		59
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1256575918taylor-lautner-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Тэйлор",
+			"playerRating":		60
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250529545bj_novak_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Новак",
+			"playerRating":		29
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251298646edward_norton_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эдвард",
+			"playerRating":		75
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251210029jack_nicholson_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джек",
+			"playerRating":		43
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251224901petra_nemcova_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Петра",
+			"playerRating":		26
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1258495611kelly-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Келли",
+			"playerRating":		68
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1277310157ozzy-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джон Майкл",
+			"playerRating":		21
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250016536amanda_peet_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Аманда",
+			"playerRating":		121
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1373400099152599793_brad-paisley-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Брэд",
+			"playerRating":		51
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250530894brad_pitt_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Питт",
+			"playerRating":		35
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251302161freida_pinto_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Фрида",
+			"playerRating":		79
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1257191014pink-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Пинк",
+			"playerRating":		87
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1372263734scott-porter-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Портер",
+			"playerRating":		46
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251207053sean_penn_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Шон",
+			"playerRating":		33
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250010393adam_sandler_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Адам",
+			"playerRating":		91
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250017519andy_samberg_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Энди",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1305747262arnold-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Арнольд",
+			"playerRating":		59
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250530112ben_stiller_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Бен",
+			"playerRating":		74
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1298669776charlie-sheen-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Чарли",
+			"playerRating":		52
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1287172035emma-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эмма",
+			"playerRating":		29
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		1,
+			"description":	"Масло",
+			"price":	46,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251299508ellen_pompeo_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эллен",
+			"playerRating":		25
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		100,
+			"description":	"Грибы",
+			"price":	24,
+			"playerImage":	"http://nrlib.ru/images/thumbnails/images/4itayte/Vick-pelevin-114x145.jpg",
+			"playerName":	"Виктор",
+			"playerRating":		9
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251229293katy_perry_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Кэти",
+			"playerRating":		72
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250531378brooke_schields_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Светлана",
+			"playerRating":		99
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		1,
+			"description":	"Масло",
+			"price":	46,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1351182363alessandra-ambrosia-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Странный",
+			"playerRating":		123
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1356553204brandy-norwood-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Брэнди",
+			"playerRating":		12
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251299915heidi_klum_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Хайди",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251298060donald_faison_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Дон",
+			"playerRating":		5
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1257196912ashley-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эшли",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250529486balthazar_getty_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Балтазар",
+			"playerRating":		12
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1311354232cee-lo-green-bio-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Грин",
+			"playerRating":		66
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1277999906hef-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Хью",
+			"playerRating":		14
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1286303557jonah-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Хилл",
+			"playerRating":		59
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251226645josh_holloway_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джош",
+			"playerRating":		1
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/2020/11/Kamala-Harris-Bio-Page.jpg?w=300&h=300&crop=1&quality=86&strip=all",
+			"playerName":	"Харрис",
+			"playerRating":		5
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1265124722carrie-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Кэрри",
+			"playerRating":		83
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1351182578angelina-jolie-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джоли",
+			"playerRating":		29
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1265124092bruce-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Брюс",
+			"playerRating":		36
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1433186147caitlyn-jenner-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Кэйтлин",
+			"playerRating":		58
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1350331396carly-rae-jepsen-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Карли",
+			"playerRating":		66
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251226768josh_jackson_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джексон",
+			"playerRating":		77
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1271087661nicole-scherzingerm.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Николь",
+			"playerRating":		102
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251313197kimora_lee_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Симмонс",
+			"playerRating":		22
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1374175837victoria-justice-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джастис",
+			"playerRating":		13
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250530664blake_lewis_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Блэйк",
+			"playerRating":		94
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://i0.wp.com/www.usmagazine.com/wp-content/uploads/2019/01/katherine-schwarzenegger.jpg?crop=0px%2C45px%2C1333px%2C1333px&resize=300%2C300&ssl=1&quality=86&strip=all",
+			"playerName":	"Кэтрин",
+			"playerRating":		85
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251219291jason_lee_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Ли",
+			"playerRating":		101
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251224995jerry_seinfeld_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джерри",
+			"playerRating":		25
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251210634mario_lopez_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Лопез",
+			"playerRating":		45
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1255101975padma-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Падма",
+			"playerRating":		59
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1373314233147546329_jaden-smith-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Смит",
+			"playerRating":		60
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/2020/02/Bachelor-Contestant-Hannah-Ann-Sluss.jpg?w=300&h=300&crop=1&quality=86&strip=all",
+			"playerName":	"Ханна",
+			"playerRating":		29
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251298646edward_norton_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эдвард",
+			"playerRating":		75
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251210029jack_nicholson_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джек",
+			"playerRating":		43
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1298060132gwen-stefani-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Гвен",
+			"playerRating":		26
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1258495611kelly-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Келли",
+			"playerRating":		68
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1277310157ozzy-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Джон Майкл",
+			"playerRating":		21
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250016536amanda_peet_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Аманда",
+			"playerRating":		121
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1373400099152599793_brad-paisley-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Брэд",
+			"playerRating":		51
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1301937475gary-shirley-bio-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Гэри",
+			"playerRating":		35
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251302161freida_pinto_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Фрида",
+			"playerRating":		79
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1257191014pink-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Пинк",
+			"playerRating":		87
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1374171901ed-sheeran-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Эд",
+			"playerRating":		46
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1251207053sean_penn_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Шон",
+			"playerRating":		33
+		},
+		{
+			"sprite":	"Wheat",
+			"qty":		7,
+			"description":	"Пшеница",
+			"price":	56,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250010393adam_sandler_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Адам",
+			"playerRating":		91
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250017519andy_samberg_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Энди",
+			"playerRating":		10
+		},
+		{
+			"sprite":	"Mushrooms",
+			"qty":		3,
+			"description":	"Грибы",
+			"price":	54,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1305747262arnold-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Арнольд",
+			"playerRating":		59
+		},
+		{
+			"sprite":	"Butter",
+			"qty":		5,
+			"description":	"Масло",
+			"price":	45,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1250530112ben_stiller_290x206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Бен",
+			"playerRating":		74
+		},
+		{
+			"sprite":	"Corn",
+			"qty":		1,
+			"description":	"Кукуруза",
+			"price":	4,
+			"playerImage":	"https://www.usmagazine.com/wp-content/uploads/1298669776charlie-sheen-206.jpg?w=200&h=200&crop=1&quality=86&strip=all",
+			"playerName":	"Чарли",
+			"playerRating":		52
+		}
+	]
+}
